@@ -18,6 +18,12 @@ VaultLens: https: github.com/CharSiu8/Vault_Lens
 
 ## Data Science
 
+Insurance Claims Prediction with Logistic Regression: github.com/CharSiu8/insurance-claims-prediction-logistic-regression
+- A logistic regression project comparing manual implementation with sklearn industry-standard workflow to predict whether car insurance customers will make a claim.
+- This project demonstrates two approaches to logistic regression modeling:
+    - Simple Solution: Blindly loops through features using statsmodels' logit function, then manually calculates accuracy using confusion matrix values (TP, TN, FP, FN).
+    - Analytical Workflow Solution: Industry-standard approach with proper pre-processing, visualization, correlation heatmapping to pre-screen features, and sklearn validation.
+ 
 FoodHub Analysis: github.com/CharSiu8/foodhub-delivery-analytics
 - A comprehensive exploratory data analysis of food delivery order patterns to identify demand trends and revenue optimization opportunities. 
 - This project delivers actionable business recommendations backed by statistical analysis and data visualization.
