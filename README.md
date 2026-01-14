@@ -5,7 +5,7 @@ Here is a list of repos and their descriptions so you can find what you are look
 
 ## AI Engineering 
 
-1, GRAYSON: https: github.com/CharSiu8/GRAYSON
+1, GRAYSON: https: github.com/CharSiu8/GRAYSON 
 Phd level Research chat bot
 - delivers direct links to university libraries. 
 - offers "have you considered?" recommendations to direct users to correlated research topics and questions.
