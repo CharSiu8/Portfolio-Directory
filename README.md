@@ -5,12 +5,14 @@ Here is a list of repos and their descriptions so you can find what you are look
 
 ## AI Engineering 
 
-1, GRAYSON: https: github.com/CharSiu8/GRAYSON 
+1, GRAYSON: https: 
+https://github.com/CharSiu8/GRAYSON
 Phd level Research chat bot
 - delivers direct links to university libraries. 
 - offers "have you considered?" recommendations to direct users to correlated research topics and questions.
 
-2, VaultLens: https: github.com/CharSiu8/Vault_Lens
+2, VaultLens: https: 
+https://github.com/CharSiu8/Vault_Lens
 - AI Engineering solution for initial DATASCIENCE analysis (EDA)
 - privacy first, users can load and run private datasets locally
 - automates data profiling, quality assessment, and preliminary analysis
@@ -18,7 +20,9 @@ Phd level Research chat bot
 
 ## Data Science
 
-1, Insurance Claims Prediction with Logistic Regression: github.com/CharSiu8/insurance-claims-prediction-logistic-regression
+1, Insurance Claims Prediction with Logistic Regression:
+https://github.com/CharSiu8/insurance-claims-prediction-logistic-regression
+
 - A logistic regression project comparing manual implementation with sklearn industry-standard workflow to predict whether car insurance customers will make a claim.
 - This project demonstrates two approaches to logistic regression modeling:
     - Simple Solution: Blindly loops through features using statsmodels' logit function, then manually calculates accuracy using confusion matrix         values (TP, TN, FP, FN).
