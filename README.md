@@ -28,7 +28,8 @@ https://github.com/CharSiu8/insurance-claims-prediction-logistic-regression
     - Simple Solution: Blindly loops through features using statsmodels' logit function, then manually calculates accuracy using confusion matrix         values (TP, TN, FP, FN).
     - Analytical Workflow Solution: Industry-standard approach with proper pre-processing, visualization, correlation heatmapping to pre-screen           features, and sklearn validation.
  
-2, FoodHub Analysis: github.com/CharSiu8/foodhub-delivery-analytics
+2, FoodHub Delivery Analysis: 
+https://github.com/CharSiu8/foodhub-delivery-analytics
 - A comprehensive exploratory data analysis of food delivery order patterns to identify demand trends and revenue optimization opportunities. 
 - This project delivers actionable business recommendations backed by statistical analysis and data visualization.
 
