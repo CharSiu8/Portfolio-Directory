@@ -33,13 +33,15 @@ https://github.com/CharSiu8/foodhub-delivery-analytics
 - A comprehensive exploratory data analysis of food delivery order patterns to identify demand trends and revenue optimization opportunities. 
 - This project delivers actionable business recommendations backed by statistical analysis and data visualization.
 
-3, UBER analysis: https://github.com/CharSiu8/UBER-Analysis
+3, UBER analysis: 
+https://github.com/CharSiu8/UBER-Analysis
 - extract actionable insights from demand patterns to help the business understand its demand profile and drive better outcomes.
 
 ## AI Automation
 Please visit my google drive portfolio to see presentations on AI Automation projects - https://drive.google.com/drive/folders/1sd5nk7UbHoA2wwQnIx6VDx9--Ek1iGOP?usp=drive_link
 
-Monday Morning: https://github.com/CharSiu8/n8nMondayMorning
+Monday Morning: 
+https://github.com/CharSiu8/n8nMondayMorning
 - Automated n8n workflow that monitors e-commerce sales data and sends intelligent alerts when week-over-week revenue drops by 10%+.
 - Uses GPT-4 to generate human-readable incident reports from raw sales metrics.
 - Notifies staff/clients in the case of WoW changes
