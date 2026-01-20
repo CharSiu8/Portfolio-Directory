@@ -5,15 +5,29 @@ Here is a list of repos and their descriptions so you can find what you are look
 
 ## AI Engineering 
 
-1, GRAYSON:
+1, RAG_Grayson:
 
-https://github.com/CharSiu8/GRAYSON
+https://github.com/CharSiu8/RAG_Grayson
 
 Phd level Research chat bot
 - delivers direct links to university libraries. 
 - offers "have you considered?" recommendations to direct users to correlated research topics and questions.
 
-2, VaultLens: https: 
+2, GRAYSON:
+
+This is the updated version of the system because it better fit the client's needs
+
+https://github.com/CharSiu8/GRAYSON
+
+GRAYSON provides intelligent research assistance through:
+
+AI-curated book recommendations from scholarly works
+Direct uOttawa OMNI library access for every source
+Free PDF discovery when available
+Smart citation extraction from LLM-generated answers
+"Have you considered?" prompts for deeper research directions
+
+3, VaultLens: https: 
 
 https://github.com/CharSiu8/Vault_Lens
 
