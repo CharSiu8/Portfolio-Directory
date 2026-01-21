@@ -36,6 +36,12 @@ https://github.com/CharSiu8/Vault_Lens
 - automates data profiling, quality assessment, and preliminary analysis
 - ollama has a "lens" into the "vault" of data. the model can see the data, but never touches it
 
+4, DevDocs-AI 
+
+https://github.com/CharSiu8/DevDocs-AI
+
+Production RAG system for querying FastAPI docs. Semantic search + GPT-4o-mini answers with source citations. Built from scratch — no LangChain.
+
 ## Data Science
 
 1, Insurance Claims Prediction with Logistic Regression:
