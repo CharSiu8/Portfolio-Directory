@@ -9,7 +9,7 @@ Here is a list of repos and their descriptions so you can find what you are look
 
 https://github.com/CharSiu8/RAG_Grayson
 
-Phd level Research chat bot
+Phd level Research RAG chat bot 
 - delivers direct links to university libraries. 
 - offers "have you considered?" recommendations to direct users to correlated research topics and questions.
 
