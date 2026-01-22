@@ -18,6 +18,7 @@ Phd level Research RAG chat bot
 This is the updated version of the system because it better fit the client's needs
 
 https://github.com/CharSiu8/GRAYSON
+Try it now: https://grayson-7um6.onrender.com
 
 GRAYSON provides intelligent research assistance through:
 
@@ -26,6 +27,7 @@ Direct uOttawa OMNI library access for every source
 Free PDF discovery when available
 Smart citation extraction from LLM-generated answers
 "Have you considered?" prompts for deeper research directions
+Deployed on Render
 
 3, VaultLens: https: 
 
@@ -39,8 +41,10 @@ https://github.com/CharSiu8/Vault_Lens
 4, DevDocs-AI 
 
 https://github.com/CharSiu8/DevDocs-AI
+Try it now: https://charsiu8-devdocs-ai.hf.space/ask?question=How do I create routes
 
 Production RAG system for querying FastAPI docs. Semantic search + GPT-4o-mini answers with source citations. Built from scratch — no LangChain.
+Deployed on HuggingFace
 
 ## Data Science
 
