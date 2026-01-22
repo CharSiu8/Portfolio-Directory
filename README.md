@@ -2,18 +2,28 @@
 
 ## Hello there, welcome to my Github. 
 Here is a list of repos and their descriptions so you can find what you are looking for
+All employers and recruiters are permitted by licensing to run and test code
 
 ## AI Engineering 
 
-1, RAG_Grayson:
+1, DevDocs-AI 
 
-https://github.com/CharSiu8/RAG_Grayson
+https://github.com/CharSiu8/DevDocs-AI
+Try it now: https://charsiu8-devdocs-ai.hf.space/ask?question=How do I create routes
 
-Phd level Research RAG chat bot 
-- delivers direct links to university libraries. 
-- offers "have you considered?" recommendations to direct users to correlated research topics and questions.
+Production RAG system for querying FastAPI docs. Semantic search + GPT-4o-mini answers with source citations. Built from scratch — no LangChain.
+Deployed on HuggingFace
 
-2, GRAYSON:
+2, VaultLens: 
+
+https://github.com/CharSiu8/Vault_Lens
+
+- AI Engineering solution for initial DATASCIENCE analysis (EDA)
+- privacy first, users can load and run private datasets locally
+- automates data profiling, quality assessment, and preliminary analysis
+- ollama has a "lens" into the "vault" of data. the model can see the data, but never touches it
+  
+3, GRAYSON:
 
 This is the updated version of the system because it better fit the client's needs
 
@@ -29,22 +39,13 @@ Smart citation extraction from LLM-generated answers
 "Have you considered?" prompts for deeper research directions
 Deployed on Render
 
-3, VaultLens: https: 
+4, RAG_Grayson (The origional GRAYSON):
 
-https://github.com/CharSiu8/Vault_Lens
+https://github.com/CharSiu8/RAG_Grayson
 
-- AI Engineering solution for initial DATASCIENCE analysis (EDA)
-- privacy first, users can load and run private datasets locally
-- automates data profiling, quality assessment, and preliminary analysis
-- ollama has a "lens" into the "vault" of data. the model can see the data, but never touches it
-
-4, DevDocs-AI 
-
-https://github.com/CharSiu8/DevDocs-AI
-Try it now: https://charsiu8-devdocs-ai.hf.space/ask?question=How do I create routes
-
-Production RAG system for querying FastAPI docs. Semantic search + GPT-4o-mini answers with source citations. Built from scratch — no LangChain.
-Deployed on HuggingFace
+Phd level Research RAG chat bot 
+- delivers direct links to university libraries. 
+- offers "have you considered?" recommendations to direct users to correlated research topics and questions.
 
 ## Data Science
 
