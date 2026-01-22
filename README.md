@@ -12,8 +12,9 @@ https://github.com/CharSiu8/DevDocs-AI
 
 Try it now: https://charsiu8-devdocs-ai.hf.space/ask?question=How do I create routes
 
-Production RAG system for querying FastAPI docs. Semantic search + GPT-4o-mini answers with source citations. Built from scratch — no LangChain.
-Deployed on HuggingFace
+- Production RAG system for querying FastAPI docs. Semantic search + GPT-4o-mini answers with source citations.
+- Built from scratch — no LangChain.
+- Deployed on HuggingFace
 
 2, VaultLens: 
 
@@ -33,12 +34,12 @@ Try it now: https://grayson-7um6.onrender.com
 
 GRAYSON provides intelligent research assistance through:
 
-AI-curated book recommendations from scholarly works
-Direct uOttawa OMNI library access for every source
-Free PDF discovery when available
-Smart citation extraction from LLM-generated answers
-"Have you considered?" prompts for deeper research directions
-Deployed on Render
+- AI-curated book recommendations from scholarly works
+- Direct uOttawa OMNI library access for every source
+- Free PDF discovery when available
+- Smart citation extraction from LLM-generated answers
+- "Have you considered?" prompts for deeper research directions
+- Deployed on Render
 
 4, RAG_Grayson (The origional GRAYSON):
 
