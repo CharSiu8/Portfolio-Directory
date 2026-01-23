@@ -10,7 +10,7 @@ All employers and recruiters are permitted by licensing to run and test code
 
 https://github.com/CharSiu8/DevDocs-AI
 
-Try it now: https://charsiu8-devdocs-ai.hf.space/ask?question=How do I create routes
+Try it now: charsiu8-devdocs-ai.hf.space/
 
 - Production RAG system for querying FastAPI docs. Semantic search + GPT-4o-mini answers with source citations.
 - Built from scratch — no LangChain.
