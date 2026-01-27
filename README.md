@@ -31,6 +31,7 @@ https://github.com/CharSiu8/Vault_Lens
 This is the updated version of the system because it better fit the client's needs
 
 https://github.com/CharSiu8/GRAYSON
+
 Try it now: https://grayson-7um6.onrender.com
 
 GRAYSON provides intelligent research assistance through:
@@ -47,6 +48,7 @@ GRAYSON provides intelligent research assistance through:
 AI-powered chatbot that answers questions about Delta Dental insurance plans using RAG (Retrieval-Augmented Generation).
 
 https://github.com/CharSiu8/Agenic_RAG_POC-delta-dental
+
 Live Demo: https://huggingface.co/spaces/CharSiu8/delta-dental-assistant
 
 AI-powered chatbot that answers questions about Delta Dental insurance plans using RAG (Retrieval-Augmented Generation).
