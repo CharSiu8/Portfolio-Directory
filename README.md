@@ -42,7 +42,17 @@ GRAYSON provides intelligent research assistance through:
 - "Have you considered?" prompts for deeper research directions
 - Deployed on Render
 
-4, RAG_Grayson (The origional GRAYSON):
+4, Delta Dental AI Assistant:
+https://github.com/CharSiu8/Agenic_RAG_POC-delta-dental
+Live Demo: https://huggingface.co/spaces/CharSiu8/delta-dental-assistant
+AI-powered chatbot that answers questions about Delta Dental insurance plans using RAG (Retrieval-Augmented Generation).
+
+- Plan Q&A — Ask questions about your specific dental plan coverage
+- Coverage Percentages — Get accurate coverage rates for procedures
+- Multi-Plan Support — Supports Base, Premium, State, and comparison plans
+- Source-Filtered Retrieval — Answers come only from your selected plan
+
+5, RAG_Grayson (The origional GRAYSON):
 
 https://github.com/CharSiu8/RAG_Grayson
 
