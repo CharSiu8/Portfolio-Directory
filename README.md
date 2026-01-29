@@ -66,7 +66,7 @@ Phd level Research RAG chat bot
 - delivers direct links to university libraries. 
 - offers "have you considered?" recommendations to direct users to correlated research topics and questions.
 
-## Data Science
+## Data Science & Machine Learning
 
 1, Insurance Claims Prediction with Logistic Regression:
 
