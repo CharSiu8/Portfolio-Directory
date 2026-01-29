@@ -76,15 +76,26 @@ https://github.com/CharSiu8/insurance-claims-prediction-logistic-regression
 - This project demonstrates two approaches to logistic regression modeling:
     - Simple Solution: Blindly loops through features using statsmodels' logit function, then manually calculates accuracy using confusion matrix         values (TP, TN, FP, FN).
     - Analytical Workflow Solution: Industry-standard approach with proper pre-processing, visualization, correlation heatmapping to pre-screen           features, and sklearn validation.
- 
-2, FoodHub Delivery Analysis: 
+
+2, SuperKart Sales Forecasting with Linear Regression:
+
+https://github.com/CharSiu8/ML_LinearRegression_SuperKart
+
+- A sales forecasting project using linear regression to predict quarterly revenue across SuperKart's 4-store grocery chain, with comprehensive EDA revealing tier-based pricing strategies and product mix optimization opportunities.
+- This project demonstrates end-to-end regression modeling workflow:
+    - Exploratory Data Analysis: Analyzed 8,763 product records across store types, locations, and tiers to identify revenue drivers and customer preferences (low-sugar products = 73% of sales).
+    - Feature Engineering & VIF Analysis: Created derived features (Store_Age_Years, Product_Type_Category), applied get_dummies encoding, and used Variance Inflation Factor to eliminate multicollinear store features, reducing from 17 to 3 predictive features.
+    - Model Validation: Built statsmodels OLS regression achieving 77.4% test R², validated with cross-validation, residual analysis, and heteroscedasticity testing to confirm model assumptions and reliability.
+
+
+3, FoodHub Delivery Analysis (EDA): 
 
 https://github.com/CharSiu8/foodhub-delivery-analytics
 
 - A comprehensive exploratory data analysis of food delivery order patterns to identify demand trends and revenue optimization opportunities. 
 - This project delivers actionable business recommendations backed by statistical analysis and data visualization.
 
-3, UBER analysis: 
+4, UBER analysis (EDA): 
 
 https://github.com/CharSiu8/UBER-Analysis
 
