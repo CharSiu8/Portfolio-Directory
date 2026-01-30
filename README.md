@@ -1,8 +1,9 @@
 ## Portfolio-Directory
 
 ## Hello there, welcome to my Github. 
-Here is a list of repos and their descriptions so you can find what you are looking for
-All employers and recruiters are permitted by licensing to run and test code
+Here is a list of repos and their descriptions so you can find what you are looking for.
+
+All employers and recruiters are permitted by licensing to run and test code.
 
 ## AI Engineering 
 
