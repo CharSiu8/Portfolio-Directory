@@ -27,7 +27,17 @@ https://github.com/CharSiu8/Vault_Lens
 - automates data profiling, quality assessment, and preliminary analysis
 - ollama has a "lens" into the "vault" of data. the model can see the data, but never touches it
   
-3, GRAYSON:
+3, BatVision:
+
+https://github.com/CharSiu8/BatVision
+
+Try it now: https://huggingface.co/spaces/CharSiu8/BatVision
+
+* AI image classifier identifying Batman actors (Affleck, Bale, Pattinson) and masked lookalikes (Nite Owl, Darkwing)
+* Azure-integrated: Custom Vision (model), Blob Storage (images), full cloud pipeline
+* Trained on mask-heavy images — model learns subtle facial features, not just costumes
+
+4, GRAYSON:
 
 This is the updated version of the system because it better fit the client's needs
 
@@ -44,7 +54,7 @@ GRAYSON provides intelligent research assistance through:
 - "Have you considered?" prompts for deeper research directions
 - Deployed on Render
 
-4, Delta Dental AI Assistant:
+5, Delta Dental AI Assistant:
 
 AI-powered chatbot that answers questions about Delta Dental insurance plans using RAG (Retrieval-Augmented Generation).
 
@@ -59,7 +69,7 @@ AI-powered chatbot that answers questions about Delta Dental insurance plans usi
 - Multi-Plan Support — Supports Base, Premium, State, and comparison plans
 - Source-Filtered Retrieval — Answers come only from your selected plan
 
-5, RAG_Grayson (The origional GRAYSON):
+6, RAG_Grayson (The origional GRAYSON):
 
 https://github.com/CharSiu8/RAG_Grayson
 
