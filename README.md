@@ -99,14 +99,20 @@ https://github.com/CharSiu8/ML_LinearRegression_SuperKart
     - Model Validation: Built statsmodels OLS regression achieving 77.4% test R², validated with cross-validation, residual analysis, and heteroscedasticity testing to confirm model assumptions and reliability.
 
 
-3, FoodHub Delivery Analysis (EDA): 
+3, Random Forests Attrition Prediction Case Study
+
+https://github.com/CharSiu8/RandomForestAttritionPrediction
+
+The tuned Random Forest model achieved 83% recall for predicting employee attrition, with overtime, monthly income, daily rate, number of companies worked, and work experience identified as the strongest drivers. To reduce attrition, the company should minimize overtime through better work management or provide additional compensation, ensure competitive salaries and more frequent promotions with revised stock option plans, and reconsider hiring policies for candidates with excessive job-hopping history. Addressing commute challenges through cab facilities for distant employees, improving workplace culture, and providing better support for junior employees will create a healthier work environment. Special attention should be given to sales and marketing departments with high attrition rates by revising their incentive structures to improve retention.
+
+4, FoodHub Delivery Analysis (EDA): 
 
 https://github.com/CharSiu8/foodhub-delivery-analytics
 
 - A comprehensive exploratory data analysis of food delivery order patterns to identify demand trends and revenue optimization opportunities. 
 - This project delivers actionable business recommendations backed by statistical analysis and data visualization.
 
-4, UBER analysis (EDA): 
+5, UBER analysis (EDA): 
 
 https://github.com/CharSiu8/UBER-Analysis
 
