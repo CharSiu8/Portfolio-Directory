@@ -79,7 +79,19 @@ Phd level Research RAG chat bot
 
 ## Data Science & Machine Learning
 
-1, Insurance Claims Prediction with Logistic Regression:
+1, Random Forest Classifier, XGB, GridSearch =  RandomForst Classifiers to XGBoost to GridSearchCV = Precision: 83% - Recall: 79% - F1: 81% - Accuracy:  93%
+
+https://github.com/CharSiu8/LoanDefault-Prediction
+
+**Home Equity Loan Default Prediction with XGBoost:**
+https://github.com/[your-username]/loan-default-prediction
+- A binary classification project to predict loan defaults for INN Hotels Group's home equity lending portfolio, addressing class imbalance (80/20 split) and achieving 93% accuracy with an interpretable XGBoost model.
+- This project demonstrates end-to-end classification workflow:
+    - Exploratory Data Analysis: Discovered missing debt-to-income disclosure as strongest predictor (62% default rate vs 9%), created strategic missing indicator features, and analyzed credit history patterns across 5,960 loan applications.
+    - Feature Engineering & Imputation: Handled 21% missing DEBTINC values by creating indicator columns that preserved predictive signal, performed correlation analysis to identify multicollinearity, and one-hot encoded categorical features with dummy_na=True for missing job/reason data.
+    - Model Optimization: Progressed from overfitted Random Forest (100% train, 70% test F1) through hyperparameter tuning to final GridSearchCV-optimized XGBoost achieving 81% F1 score with 83% precision and 79% recall, balancing false positive reduction with default detection for regulatory compliance.
+      
+2, Insurance Claims Prediction with Logistic Regression:
 
 https://github.com/CharSiu8/insurance-claims-prediction-logistic-regression
 
@@ -88,7 +100,7 @@ https://github.com/CharSiu8/insurance-claims-prediction-logistic-regression
     - Simple Solution: Blindly loops through features using statsmodels' logit function, then manually calculates accuracy using confusion matrix         values (TP, TN, FP, FN).
     - Analytical Workflow Solution: Industry-standard approach with proper pre-processing, visualization, correlation heatmapping to pre-screen           features, and sklearn validation.
 
-2, SuperKart Sales Forecasting with Linear Regression:
+3, SuperKart Sales Forecasting with Linear Regression:
 
 https://github.com/CharSiu8/ML_LinearRegression_SuperKart
 
@@ -99,20 +111,21 @@ https://github.com/CharSiu8/ML_LinearRegression_SuperKart
     - Model Validation: Built statsmodels OLS regression achieving 77.4% test R², validated with cross-validation, residual analysis, and heteroscedasticity testing to confirm model assumptions and reliability.
 
 
-3, Random Forests Attrition Prediction Case Study
+4, Random Forests Attrition Prediction Case Study
 
 https://github.com/CharSiu8/RandomForestAttritionPrediction
 
 The tuned Random Forest model achieved 83% recall for predicting employee attrition, with overtime, monthly income, daily rate, number of companies worked, and work experience identified as the strongest drivers. To reduce attrition, the company should minimize overtime through better work management or provide additional compensation, ensure competitive salaries and more frequent promotions with revised stock option plans, and reconsider hiring policies for candidates with excessive job-hopping history. Addressing commute challenges through cab facilities for distant employees, improving workplace culture, and providing better support for junior employees will create a healthier work environment. Special attention should be given to sales and marketing departments with high attrition rates by revising their incentive structures to improve retention.
 
-4, FoodHub Delivery Analysis (EDA): 
+ 
+5, FoodHub Delivery Analysis (EDA): 
 
 https://github.com/CharSiu8/foodhub-delivery-analytics
 
 - A comprehensive exploratory data analysis of food delivery order patterns to identify demand trends and revenue optimization opportunities. 
 - This project delivers actionable business recommendations backed by statistical analysis and data visualization.
 
-5, UBER analysis (EDA): 
+6, UBER analysis (EDA): 
 
 https://github.com/CharSiu8/UBER-Analysis
 
