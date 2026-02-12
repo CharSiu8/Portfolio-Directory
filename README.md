@@ -32,6 +32,7 @@ https://github.com/CharSiu8/Vault_Lens
 https://github.com/CharSiu8/BatVision
 
 Try it now: https://huggingface.co/spaces/CharSiu8/BatVision
+Also deployed on Azure: http://batvision.a4dyasbea5bxc7gd.canadaeast.azurecontainer.io:8000/
 
 * AI image classifier identifying Batman actors (Affleck, Bale, Pattinson) and masked lookalikes (Nite Owl, Darkwing)
 * Azure-integrated: Custom Vision (model), Blob Storage (images), full cloud pipeline
