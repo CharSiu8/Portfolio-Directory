@@ -9,7 +9,7 @@ All employers and recruiters are permitted by licensing to run and test code.
 
 **Delta Dental AI Assistant v2:**
 
-github.com/CharSiu8/foundry_agentic-RAG-insurance-assistant
+https://github.com/CharSiu8/foundry_agentic-RAG-insurance-assistant
 
 
 Try it now: https://delta-dental-app.whitemushroom-7c468829.canadaeast.azurecontainerapps.io/
