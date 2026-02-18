@@ -7,7 +7,19 @@ All employers and recruiters are permitted by licensing to run and test code.
 
 ## AI Engineering 
 
-1, DevDocs-AI:
+**Delta Dental AI Assistant v2:**
+
+https://github.com/CharSiu8/delta-dental-assistant
+
+Try it now: https://delta-dental-app.whitemushroom-7c468829.canadaeast.azurecontainerapps.io/
+
+Multi-agent dental insurance assistant built on Azure AI Foundry/ VS COde with MS SDKs— ask about coverage, find providers, estimate costs in one query
+5 specialized agents (Router, Coverage, Provider Finder, Cost Estimator, Orchestrator) with parallel execution and agent chaining
+RAG pipeline: Azure AI Search with hybrid vector search across 5 Michigan Delta Dental plan documents
+160+ providers across 11 Michigan cities, 53 procedures with dual PPO/Premier cost estimates
+Deployed on Azure Container Apps — Streamlit UI, Docker containerized, full Azure cloud pipeline
+
+**DevDocs-AI:**
 
 https://github.com/CharSiu8/DevDocs-AI
 
@@ -18,7 +30,7 @@ Try it now: charsiu8-devdocs-ai.hf.space
 - Built from scratch — no LangChain.
 - Deployed on HuggingFace
 
-2, VaultLens: 
+**VaultLens:**
 
 https://github.com/CharSiu8/Vault_Lens
 
@@ -27,7 +39,7 @@ https://github.com/CharSiu8/Vault_Lens
 - automates data profiling, quality assessment, and preliminary analysis
 - ollama has a "lens" into the "vault" of data. the model can see the data, but never touches it
   
-3, BatVision:
+**BatVision:**
 
 https://github.com/CharSiu8/BatVision
 
@@ -38,7 +50,7 @@ Also deployed on Azure: http://batvision.a4dyasbea5bxc7gd.canadaeast.azurecontai
 * Azure-integrated: Custom Vision (model), Blob Storage (images), full cloud pipeline
 * Trained on mask-heavy images — model learns subtle facial features, not just costumes
 
-4, GRAYSON:
+**GRAYSON:**
 
 This is the updated version of the system because it better fit the client's needs
 
@@ -55,7 +67,7 @@ GRAYSON provides intelligent research assistance through:
 - "Have you considered?" prompts for deeper research directions
 - Deployed on Render
 
-5, Delta Dental AI Assistant:
+**Delta Dental AI Assistant v1**
 
 AI-powered chatbot that answers questions about Delta Dental insurance plans using RAG (Retrieval-Augmented Generation).
 
