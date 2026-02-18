@@ -82,7 +82,7 @@ AI-powered chatbot that answers questions about Delta Dental insurance plans usi
 - Multi-Plan Support — Supports Base, Premium, State, and comparison plans
 - Source-Filtered Retrieval — Answers come only from your selected plan
 
-6, RAG_Grayson (The origional GRAYSON):
+**RAG_Grayson (The origional GRAYSON):**
 
 https://github.com/CharSiu8/RAG_Grayson
 
