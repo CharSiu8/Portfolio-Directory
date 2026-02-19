@@ -26,7 +26,7 @@ Deployed on Azure Container Apps — Streamlit UI, Docker containerized, full Az
 
 https://github.com/CharSiu8/DevDocs-AI
 
-Try it now: charsiu8-devdocs-ai.hf.space
+Try it now: https://charsiu8-devdocs-ai.hf.space/
 
 
 - Production RAG system for querying FastAPI docs. Semantic search + GPT-4o-mini answers with source citations.
