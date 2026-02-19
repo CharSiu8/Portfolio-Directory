@@ -35,6 +35,8 @@ Try it now: https://charsiu8-devdocs-ai.hf.space/
 
 **VaultLens:**
 
+pip install vault-lens
+
 https://github.com/CharSiu8/Vault_Lens
 
 - AI Engineering solution for initial DATASCIENCE analysis (EDA)
